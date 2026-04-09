@@ -1,10 +1,5 @@
 # Sales Performance Analysis
 
-## Project Overview
-This project presents a comprehensive analysis of a sample sales dataset using Microsoft Excel. The goal is to transform raw sales data into actionable insights through data cleaning, transformation, and interactive dashboard creation.
-
-The analysis focuses on understanding sales performance, profitability, and trends across different regions, segments, and product categories. # Sales Performance Analysis
-
 ##  Project Overview
 This project presents a comprehensive analysis of a sample sales dataset using Microsoft Excel. The goal is to transform raw sales data into actionable insights through data cleaning, transformation, and interactive dashboard creation.
 
