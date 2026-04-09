@@ -1,5 +1,7 @@
 # Sales Performance Analysis
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0b16eefc-5b93-459b-a149-fe8603ba1b1a" />
+
 ##  Project Overview
 This project presents a comprehensive analysis of a sample sales dataset using Microsoft Excel. The goal is to transform raw sales data into actionable insights through data cleaning, transformation, and interactive dashboard creation.
 
